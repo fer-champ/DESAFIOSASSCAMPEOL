@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {font-family: 'Roboto', sans-serif;
+ 
+    background-image: url(images/morocco_13-PARA-WEB.jpg);
+}
+
+header{
+width: 100%;
+padding: 40px;
+text-align: center;
+
+}
+
+footer{
+width: 100%;
+padding: 20px;
+text-align: center;
+
+}
+.slide{
+margin-top: 10px;
+height: 65vh;
+}
+
+
+.parrafoinicio {height: 250;
+    font-size: larger;
+    width: 20;
+    border: 3px;
+    text-align: center;
+}
+
+card{ text-align: center;
+}
+.fotografia{width: 620px;
+    height: 450px;
+
+}
+
+.animacionlogo:hover{
+transform: scale(1.5 , 1.2);
+
+}
+

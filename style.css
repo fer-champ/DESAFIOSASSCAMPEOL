@@ -1,0 +1,17 @@
+h1 {
+  background-color: crimson;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.parrafoinicio {
+  font-size: 20px;
+}
+
+.animacionlogo {
+  background-image: url(images/morocco_13-PARA-WEB.jpg);
+}
+
+.container-fluid {
+  background-color: darksalmon;
+}
+/*# sourceMappingURL=style.css.map */
